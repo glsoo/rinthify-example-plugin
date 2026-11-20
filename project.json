@@ -1,0 +1,8 @@
+{
+	"name": "Example Plugin",
+	"version": "1.0.0",
+	"author": "glsoo",
+	"description": "A starting point for Rinthify plugins",
+	"main": "index.js",
+	"options": [{ "id": "greeting", "type": "text", "label": "Greeting", "default": "Hello" }]
+}
